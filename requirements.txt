@@ -1,3 +1,6 @@
+azure-search-documents
+azure-core
 openai
-pypdf
 python-dotenv
+flask
+markdown
